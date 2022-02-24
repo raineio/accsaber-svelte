@@ -9,6 +9,7 @@
   <Navbar />
 
   <Leaderboard />
+
 </main>
 
 <style>

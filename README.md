@@ -10,7 +10,7 @@ But if I want to work in webdev professionally, I have to learn JS/TS at some po
 
 ### Building the app in a dev environment
 
-This requires [Node.js](https://nodejs.org/en/) and [Vite](https://vitejs.dev/).
+This web app requires [Node.js](https://nodejs.org/en/) and [Vite](https://vitejs.dev/).
 Use the version you want.
 
 Install Vite and Svelte through Node.js using npm
@@ -32,3 +32,5 @@ or
 ```bash
 yarn run dev
 ```
+
+and open the app on [https://localhost:3000](https://localhost:3000)
